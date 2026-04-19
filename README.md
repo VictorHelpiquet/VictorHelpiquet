@@ -1,8 +1,8 @@
-# Victor Helpiquet
+# 👋 Welcome to my GitHub
 
-Étudiant à l’ENSTA, spécialisé en mathématiques appliquées et finance quantitative.
+I'm an engineering student in **Applied Mathematics** with a minor in **Quantitative Finance** at **ENSTA Paris**. I'm pursuing toward a **M.Sc.** in **Applied Mathematics** at **Institut Polytechnique de Paris**
 
-## À propos de moi
-- Applied Mathematics & Quantitative Finance
-- Intéressé par l’optimisation, la data science et les séries temporelles
-- Travaille sur des projets Python et GitHub
+I enjoy using mathematics and data to analyze phenomena, build models, and predict the future.
+
+Here are the project that I've worked on : 
+
