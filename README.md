@@ -6,3 +6,6 @@ I enjoy using mathematics and data to analyze phenomena, build models, and predi
 
 Here are the project that I've worked on : 
 
+- [PRB9](https://github.com/VictorHelpiquet/Markovitz-Portfolio-Selection)
+- [STA402](https://github.com/git-benassis/STA402)
+- [Chess Engine AI](https://github.com/TheoBeille/Chess-engine-AI)
