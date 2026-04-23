@@ -6,7 +6,7 @@ I enjoy using mathematics and data to analyze phenomena, build models, and predi
 
 Here are some project that I've worked on : 
 
-- [Bermuda options pricing using the Lonstaff-Schwartz algorithm (still in developpment)](https://github.com/git-benassis/PRB9)
+- [Bermudan options pricing using the Lonstaff-Schwartz algorithm (still in developpment)](https://github.com/git-benassis/PRB9)
 - [Markovitz Portfolio Selection](https://github.com/VictorHelpiquet/Markovitz-Portfolio-Selection)
 - [SPY volume prediction](https://github.com/git-benassis/STA402)
 - [Intelligent Chess Game from scratch](https://github.com/TheoBeille/Chess-engine-AI)
